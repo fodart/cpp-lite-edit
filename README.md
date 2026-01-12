@@ -1,6 +1,3 @@
-# cpp-lite-edit
-A lightweight, terminal-based text editor built with C++ for Windows. Features real-time keyboard input handling, file buffer management, and interactive navigation.
-
 # LiteEdit C++
 
 A minimalistic console text editor written in C++. This project demonstrates low-level keyboard event handling and efficient file stream management.
